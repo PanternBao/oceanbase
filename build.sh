@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 TOPDIR=`readlink -f \`dirname $0\``
 BUILD_SH=$TOPDIR/build.sh
 
